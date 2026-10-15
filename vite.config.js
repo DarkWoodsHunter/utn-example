@@ -10,6 +10,6 @@ export default defineConfig({
     babel({ presets: [reactCompilerPreset()] }),
     tailwings()
   ],
-  base: "/",
+  base: "/utn-example/",
 })
 
