@@ -10,6 +10,6 @@ export default defineConfig({
     babel({ presets: [reactCompilerPreset()] }),
     tailwings()
   ],
-  base: "/VITE-PROJECT/",
+  base: "/utn-example/",
 })
 
