@@ -10,6 +10,6 @@ export default defineConfig({
     babel({ presets: [reactCompilerPreset()] }),
     tailwings()
   ],
-  base: "/utn-example/",
+  base: "https://github.com/DarkWoodsHunter/utn-example/",
 })
 
