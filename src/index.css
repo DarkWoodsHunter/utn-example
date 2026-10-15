@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {}
+
+@layer components {
+  .custo-box-tittle {
+    background: #1a1a19;
+    border-radius: 2rem;
+    border: 1.7px;
+    border-color: #383837;
+    padding-inline: 2;
+  }
+}
+
